@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test
 
 #### Table of Contents
@@ -81,3 +82,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# myPuppetRepo
+>>>>>>> 8d96e4bd5c27f46dce7b14590541cbc2e76e85d0
